@@ -1,0 +1,3 @@
+opencv-python
+mediapipe
+python-3.9 version
