@@ -7,5 +7,5 @@ This project uses OpenCV to detect and blur human faces in real-time using a web
 - Real-time face detection.
 - Blur applied to detected faces
 ## 🖼️ Demo
+![Face Blur Demo](Screenshot%202025-05-10%20150028.png)
 
-![Face Blur Demo](images/95e0d255-f8a5-4fee-b41d-3d72f4dd1a05.png)
